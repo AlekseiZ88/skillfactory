@@ -12,4 +12,8 @@ git push origin https://github.com/AlekseiZ88/skillfactory.git
 git pull origin master
 cat README.md
 git clone https://github.com/AlekseiZ88/skillfactory.git
+<<<<<<< HEAD
 rm -rf skillfactory
+=======
+rm -rf skillfactory/
+>>>>>>> 5b5fbbf61cb240165a6d2e04f141f2cba8472257
