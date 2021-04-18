@@ -17,3 +17,8 @@ rm -rf skillfactory
 =======
 rm -rf skillfactory/
 >>>>>>> 5b5fbbf61cb240165a6d2e04f141f2cba8472257
+git reflog
+git reset --hard 29e1a36
+git merge --abort
+git merge 15-4-feature-2
+
